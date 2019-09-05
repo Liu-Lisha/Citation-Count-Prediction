@@ -16,7 +16,7 @@ In recent years, the number of scientific publications has been growing in a dra
 
 ## DownLoad and Usage
 By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Citation-Count-Prediction/edit/master/README.md#Licence).
-- Then complete the form online https://docs.google.com/forms/d/1F8Gyd5Hd2fTZbwHVd46lTzaAkXWJ3e1-EUecHn_iA1I/prefill and mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] with your corporate mailbox, we will send you the datasets by e-mail when approved.
+- Then mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] with your corporate mailbox, we will send you the datasets by e-mail when approved.
 
 ## License
 By using the datasets, you must agree to be bound by the terms of the following license.
@@ -35,9 +35,9 @@ This dataset is made freely available to academic and non-academic entities for 
 If you use our dataset or useful in your research, please kindly cite our papers.
 
 ```
-@inproceedings{shuqing2019job,
-  title={Domain Adaptation for Person-Job Fit with Transferable Deep Global Match Network},
-  author={Shuqing Bian, Wayne Xin Zhao, Yang Song, Tao Zhang and Ji-Rong Wen},
+@inproceedings{lisiqing2019,
+  title={A Neural Citation Count Prediction Model based on Peer Review Text},
+  author={Siqing Li, Wayne Xin Zhao, Eddy Jing Yin and Ji-Rong Wen},
   booktitle={EMNLP},
   year={2019}
 }
