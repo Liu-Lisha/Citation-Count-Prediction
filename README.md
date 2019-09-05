@@ -2,7 +2,7 @@
 this repository contains the dataset and the source code for the EMNLP 2019 paper "A Neural Citation Count Prediction Model based on Peer Review Text"[1].
 
 ## Directory
-- Motivations
+- [Motivations](https://github.com/RUCAIBox/Citation-Count-Prediction/edit/master/README.md#Motications)
 - Datasets
 - Download and Usage
 - Licence
@@ -19,6 +19,6 @@ In recent years, the number of scientific publications has been growing in a dra
 
 ## Licence
 By using the datasets, you must agree to be bound by the terms of the following license.
-...
+
 License agreement
-...
+
