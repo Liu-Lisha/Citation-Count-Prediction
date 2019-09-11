@@ -4,7 +4,7 @@ This repository contains the dataset and the source code for the EMNLP 2019 pape
 ## Directory
 - [Motivations](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Motivations)
 - [Datasets](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Datasets)
-- [Download and Usage](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Download_and_Usage)
+- [Download and Usage](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Download-and-Usage)
 - [License](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#License)
 - [References](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#References)
 - [Additional Notes](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Additional)
@@ -15,7 +15,7 @@ In recent years, the number of scientific publications has been growing in a dra
 ## Datasets
 
 ## DownLoad and Usage
-By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Citation-Count-Prediction/master/README.md#Licence).
+By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Licence).
 - Then mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] with your corporate mailbox, we will send you the datasets by e-mail when approved.
 
 ## License
