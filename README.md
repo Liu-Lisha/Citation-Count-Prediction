@@ -16,7 +16,7 @@ In recent years, the number of scientific publications has been growing in a dra
 
 ## DownLoad and Usage
 By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Licence).
-- Then mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] with your corporate mailbox, we will send you the datasets by e-mail when approved.
+- Then mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] and your supervisor, we will send you the datasets by e-mail when approved.
 
 ## License
 By using the datasets, you must agree to be bound by the terms of the following license.
