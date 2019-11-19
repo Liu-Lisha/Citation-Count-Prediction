@@ -18,9 +18,7 @@ We present the statistics of the linked dataset in the following table:
 
 ## DownLoad and Usage
 By using the datasets, you must agree to be bound by the terms of the following [license](https://github.com/RUCAIBox/Citation-Count-Prediction/blob/master/README.md#Licence).
-```diff
 - Then mail to [lisiqing@ruc.edu.cn] and cc Wayne Xin Zhao via [batmanfly@gmail.com] and your supervisor, and copy the license in the email. We will send you the datasets by e-mail when approved.
-```
 
 ## License
 By using the datasets, you must agree to be bound by the terms of the following license.
